@@ -7,12 +7,17 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '25490'
     url: http://www.gutenberg.org/2009/agents/25490
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Andriessen, Suzanna Maria
     gutenberg_agent_id: '50413'
     url: http://www.gutenberg.org/2009/agents/50413
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59353#Klimop-Drie-verhalen-voor-jongens-en-meisjes
 gutenberg_issued: '2019-04-25'
 gutenberg_type: Text
 identifiers:
